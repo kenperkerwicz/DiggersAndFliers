@@ -1,0 +1,11 @@
+/Users/apple/workspace/csharp/exercises/DiggersAndFliers/bin/Debug/netcoreapp2.2/DiggersAndFliers.deps.json
+/Users/apple/workspace/csharp/exercises/DiggersAndFliers/bin/Debug/netcoreapp2.2/DiggersAndFliers.runtimeconfig.json
+/Users/apple/workspace/csharp/exercises/DiggersAndFliers/bin/Debug/netcoreapp2.2/DiggersAndFliers.runtimeconfig.dev.json
+/Users/apple/workspace/csharp/exercises/DiggersAndFliers/bin/Debug/netcoreapp2.2/DiggersAndFliers.dll
+/Users/apple/workspace/csharp/exercises/DiggersAndFliers/bin/Debug/netcoreapp2.2/DiggersAndFliers.pdb
+/Users/apple/workspace/csharp/exercises/DiggersAndFliers/obj/Debug/netcoreapp2.2/DiggersAndFliers.csprojAssemblyReference.cache
+/Users/apple/workspace/csharp/exercises/DiggersAndFliers/obj/Debug/netcoreapp2.2/DiggersAndFliers.csproj.CoreCompileInputs.cache
+/Users/apple/workspace/csharp/exercises/DiggersAndFliers/obj/Debug/netcoreapp2.2/DiggersAndFliers.AssemblyInfoInputs.cache
+/Users/apple/workspace/csharp/exercises/DiggersAndFliers/obj/Debug/netcoreapp2.2/DiggersAndFliers.AssemblyInfo.cs
+/Users/apple/workspace/csharp/exercises/DiggersAndFliers/obj/Debug/netcoreapp2.2/DiggersAndFliers.dll
+/Users/apple/workspace/csharp/exercises/DiggersAndFliers/obj/Debug/netcoreapp2.2/DiggersAndFliers.pdb
